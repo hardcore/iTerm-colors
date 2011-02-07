@@ -1,6 +1,6 @@
 This is a dark iTerm theme with glowing colors.
 
-<a [baskerville](https://github.com/baskerville/iTerm-2-Color-Themes) made a nice .Xdefaults-to-iTerm2 script. More themes on his github.
+[baskerville](https://github.com/baskerville/iTerm-2-Color-Themes) made a nice .Xdefaults-to-iTerm2 script. More themes on his github.
 <br><br>
 To install:<br>
 - Open iTerm2 (iTerm2 SVN r480 or later is <a href="http://code.google.com/p/iterm2/source/detail?r=480">required</a>)<br>
