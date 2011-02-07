@@ -21,7 +21,7 @@ A:<br>
 Q: If there a compiled version of iTerm2 > r480 available?<br>
 A:<br>
 - Wait for iTerm2-alpha17 (http://code.google.com/p/iterm2/downloads/list)<br>
-- Go to http://univrs.net/pub/ (compiled on 10.6.4 with Xcode 3.2.4 64Bit) and download 'iTerm2.app.zip'<br>
+- Go to my [Site](http://univrs.net/pub/) (compiled on 10.6.4 with Xcode 3.2.4 64Bit) and download 'iTerm2.app.zip'<br>
 
 Q: How can I talk to you?<br>
 A:<br>
