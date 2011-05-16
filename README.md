@@ -2,7 +2,7 @@ This is a dark iTerm theme with glowing colors.
 
 [baskerville](https://github.com/baskerville/iTerm-2-Color-Themes) made a nice .Xdefaults-to-iTerm2 script. More themes on his github.
 
-![Screeshot](http://univrs.net/screens/hardcore-itermcolors.png) 
+![Screeshot](http://ompldr.org/vOHB5OQ) 
 
 
 To install:<br>
