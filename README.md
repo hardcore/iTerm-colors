@@ -6,8 +6,8 @@ This is a dark iTerm theme with glowing colors.
 
 
 To install:<br>
-- Open iTerm2 (iTerm2 SVN r480 or later is <a href="http://code.google.com/p/iterm2/source/detail?r=480">required</a>)<br>
-- Type CMD+i<br>
+- Install the latest iTerm2.app (iTerm2 <a href="http://code.google.com/p/iterm2/downloads/list">download the latest nightly Build</a>)<br>
+- Type CMD+i or CMD+,<br>
 - Navigate to Colors tab<br>
 - Click on Load Presets... and Import... and import 'hardcore.itermcolors'<br>
 - Click again on Load Presets... and switch to "hardcore"<br>
@@ -20,11 +20,6 @@ A:<br>
 - go to /path/to/iterm2-read-only/iTerm.xcodeproj  and open iTerm.xcodeproj<br>
 - run the code (click on compile button)<br>
 - after compiling without errors iTerm.app is located in */iterm2-read-only/build/Development<br>
-
-Q: If there a compiled version of iTerm2 > r480 available?<br>
-A:<br>
-- Wait for iTerm2-alpha17 (http://code.google.com/p/iterm2/downloads/list)<br>
-- Go to my [Site](http://univrs.net/pub/) (compiled on 10.6.4 with Xcode 3.2.4 64Bit) and download 'iTerm2.app.zip'<br>
 
 Q: How can I talk to you?<br>
 A:<br>
